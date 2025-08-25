@@ -1,5 +1,5 @@
 Aufgabe 1: Erklären Sie das Wort Lizenz. Was bedeutet das?
-
+Eine Lizenz ist wie eine Erlaubnis etwas bestimmtes zu brauchen
 
 Aufgabe 2: Warum kommt man auf die Idee, Lizenzen zu schaffen?
 

@@ -38,6 +38,7 @@ Ein Schweiz-Vertreter ist zu benennen, wenn:
 - **Öffentliche Stellen/Behörden**  
 - **Auftragsbearbeiter**
 - **Private Verantwortliche** sind nur ausgenommen, wenn all ihre Datenbearbeitungen gelegentlich, nicht umfangreich und risikolos sind.
+- **EDÖB** im Einzelfall eine Vertretung anordnen kann.
 
 ---
 

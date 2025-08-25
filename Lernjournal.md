@@ -82,3 +82,56 @@ Ein geeigneter Vertreter sollte:
 ---
 # Datensicherheit und Datenschutz 
 ![Datenschutz und Datensicherheit](media/DatenschutzDatensicherheit.PNG)
+
+# Lizenzmodelle
+
+## Was ist eine Lizenz?
+- Eine Lizenz ist die Erlaubnis, etwas zu nutzen, z. B. Software.  
+- Sie schützt Rechte und regelt, wer etwas benutzen darf und unter welchen Bedingungen.  
+- Lizenzen gibt es für Musik, Filme, Bücher, Patente, Fotos oder Apps. Beispiel: Kauf einer Pro-Version einer App.
+
+## Arten von Lizenzen
+
+- **Perpetual License (Dauerlizenz)**  
+  Einmalige Zahlung für die dauerhafte Nutzung der Software.  
+  *Beispiel:* Videospiel kaufen.
+
+- **Subscription License (Abonnementlizenz)**  
+  Regelmäßige Zahlungen (monatlich oder jährlich) für die Nutzung der Software.  
+  *Beispiel:* Quizlet Plus.
+
+- **Concurrent License (Gleichzeitige Nutzung)**  
+  Mehrere Nutzer können gleichzeitig auf die Software zugreifen; Anzahl der Nutzer ist begrenzt.  
+  *Beispiel:* Spotify Family.
+
+- **Floating License (Schwimmende Lizenz)**  
+  Lizenzen werden dynamisch zwischen Nutzern vergeben, abhängig von der Verfügbarkeit.  
+  *Beispiel:* Keine konkrete Angabe.
+
+- **Feature-Based License (Funktionsbasierte Lizenz)**  
+  Nutzer zahlen nur für die Funktionen, die sie tatsächlich benötigen.  
+  *Beispiel:* Microsoft 365 Apps (nur ausgewählte Apps).
+
+- **Cloud-Based License (Cloudbasierte Lizenz)**  
+  Nutzung über das Internet, oft im Abonnementmodell.  
+  *Beispiel:* Canva.
+
+- **Enterprise License (Unternehmenslizenz)**  
+  Lizenz für ein ganzes Unternehmen, oft mit flexiblen Nutzungsrechten.  
+  *Beispiel:* Microsoft 365 Enterprise.
+
+- **Trialware (Testversion)**  
+  Kostenlose Testversion für eine begrenzte Zeit oder mit eingeschränkten Funktionen.  
+  *Beispiel:* Quizlet Plus Testversion.
+
+## Open Source
+Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeben kann, da der Quellcode offen ist.  
+*Beispiel:* Bauplan einer Webseite, App oder Software.
+
+## Rechte und Nutzung
+
+- **Copyright**  
+  Nur der Urheber darf die Nutzung bestimmen. Am häufigsten verwendet.
+
+- **Copyleft**  
+  Software darf frei genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.

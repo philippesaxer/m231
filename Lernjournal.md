@@ -80,3 +80,5 @@ Ein geeigneter Vertreter sollte:
   - **Positives Unternehmensimage**.  
 
 ---
+# Datensicherheit und Datenschutz 
+![Datenschutz und Datensicherheit](media/DatenschutzDatensicherheit.PNG)

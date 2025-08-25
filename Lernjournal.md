@@ -36,7 +36,8 @@ Ein Schweiz-Vertreter ist zu benennen, wenn:
 
 ### 3. Ausnahmen von der Vertreterpflicht
 - **Öffentliche Stellen/Behörden**  
-- **Auftragsbearbeiter**  
+- **Auftragsbearbeiter**
+- **Private Verantwortliche** sind nur ausgenommen, wenn all ihre Datenbearbeitungen gelegentlich, nicht umfangreich und risikolos sind.
 
 ---
 

@@ -133,5 +133,21 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 - **Copyright**  
   Nur der Urheber darf die Nutzung bestimmen. Am häufigsten verwendet.
 
+
 - **Copyleft**  
-  Software darf frei genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.
+  Software darf frei$ genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.
+
+# Lernjournal Tag 3 
+![Dreieck der Informationssicherheit](bilder/Bildschirmfotos/dreieck321.png)
+
+## Repetition, Lizenzen
+
+**Gut gemacht:** Ich habe mich aktiv beteiligt und mich bei schwierigeren Themen nicht entmutigen lassen hast! Besonders bei den Lizenzmodellen und den verschiedenen Anwendungsbereichen von Lizenzen habe ich klar gezeigt, dass ich darauf reagieren kann, wenn ich mehr Informationen bekomme.
+
+### Verbesserungen
+
+1. **Präzision in meinen Erklärungen**: Weniger auf Beispiele angewiesen zu sein, und klar erklären, was ein Begriff bedeutet. Ich könnte mir angewöhnen, bei einer Definition zu fragen: "Was ist das Grundlegende, das dieser Begriff beschreibt?"
+
+2. **Unterschiede herausarbeiten**: Besonders beim Vergleich von "copyright" und "copyleft" sollte ich genauer darauf achten, was tatsächlich ähnlich oder anders ist. Ich notiere mir vielleicht Stichpunkte, um solche Unterschiede besser im Kopf zu behalten.
+
+3. **Begriffe durchdenken**: Bei schwierigen Worten wie "open source" ist es hilfreich, mir zu überlegen: "Was macht das besonders? Was ist der Kern dieses Begriffs?" So komme ich schneller auf genauere Antworten.

@@ -151,3 +151,36 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 2. **Unterschiede herausarbeiten**: Besonders beim Vergleich von "copyright" und "copyleft" sollte ich genauer darauf achten, was tatsächlich ähnlich oder anders ist. Ich notiere mir vielleicht Stichpunkte, um solche Unterschiede besser im Kopf zu behalten.
 
 3. **Begriffe durchdenken**: Bei schwierigen Worten wie "open source" ist es hilfreich, mir zu überlegen: "Was macht das besonders? Was ist der Kern dieses Begriffs?" So komme ich schneller auf genauere Antworten.
+
+## Checkliste Smartphone-Sicherheit erhöhen
+- **Link:** https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen  
+
+**01 Gerätesperre**  
+- Ich habe meinen PIN/Face-ID drin, sperrt sich nach 2 Min.  
+
+**02 Verlust**  
+- Das musste ich schon mal machen, als ich mein Handy im Zug verlor.
+
+**03 Apps**  
+- Ich lade Apps nur aus dem App Store herunter.  
+
+**04 WLAN**  
+- Öffentliches WLAN, brauche ich kaum, da ich unbegrenztes Daten Volumen habe.  
+
+**05 Updates**  
+- Automatische Updates sind an.  
+
+**06 Daten löschen**  
+- Vor Weiterverkauf, werde ich sich mein Handy zurücksetzen.  
+
+**07 Vorsicht**  
+- Das ist mir schon lange bewusst und sehr wichtig für die Sicherheit meiner Daten und meines Handys.
+
+**08 Schnittstellen**  
+- Mir ist bewusst das ich Bluetooth & Ortung nur an haben sollte, wenn ich es brauche. Ich vergesse das aber oft abzuschalten.  
+
+**09 Cloud**  
+- Bei mir kommt das nicht sehr drauf an, da meine Familie 2 TB Cloud für alle hat, völlig genug für alle.  
+
+**10 2FA**  
+- Ich habe 2-Faktor bei Google & Insta aktiv und auch bei manchen Videospielen.  

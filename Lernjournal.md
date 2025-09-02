@@ -183,4 +183,37 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 - Bei mir kommt das nicht sehr drauf an, da meine Familie 2 TB Cloud für alle hat, völlig genug für alle.  
 
 **10 2FA**  
-- Ich habe 2-Faktor bei Google & Insta aktiv und auch bei manchen Videospielen.  
+- Ich habe 2-Faktor bei Google & Insta aktiv und auch bei manchen Videospielen.
+
+- ## PC-Sicherheit erhöhen – Checkliste für Windows
+- **Link:** https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten
+
+**01 Updates**  
+- Ich habe automatische Updates für Windows und Programme an.  
+
+**02 Virenschutz**  
+- Ich habe den Windows Defender aktiviert.  
+
+**03 Firewall**  
+- Ich habe die Windows-Firewall eingeschaltet.  
+
+**04 Starke Passwörter**  
+- Ich habe für viele Accounts das selbe Passwort, jetzt möchte ich aber einen Passwortmanager machen.  
+
+**05 2FA**  
+- Ich habe Zwei-Faktor-Authentifizierung für wichtige Accounts aktiviert.  
+
+**06 Phishing**  
+- Ich klicke keine Links oder Anhänge von Fremden an.  
+
+**07 Browser sichern**  
+- Ich habe Browser-Add-ons wie Adblock und lösche regelmäßig den Cache.  
+
+**08 Backup**  
+- Ich habe wichtige Daten auf meiner Cloud bzw. externen Festplatte gesichert.  
+
+**09 Software nur von sicheren Quellen**  
+- Ich lade Programme nur von offiziellen Websites herunter.  
+
+**10 Vorsicht bei USB & Dateien**  
+- Ich öffne keine unbekannten USB-Sticks oder Dateien von Fremden.

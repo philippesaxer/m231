@@ -191,29 +191,30 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 **01 Updates**  
 - Ich habe automatische Updates für Windows und Programme an.  
 
-**02 Virenschutz**  
+**02 Virenschutz und Firewall**  
 - Ich habe den Windows Defender aktiviert.  
-
-**03 Firewall**  
 - Ich habe die Windows-Firewall eingeschaltet.  
 
-**04 Starke Passwörter**  
+**03 Starke Passwörter**  
 - Ich habe für viele Accounts das selbe Passwort, jetzt möchte ich aber einen Passwortmanager machen.  
 
-**05 2FA**  
-- Ich habe Zwei-Faktor-Authentifizierung für wichtige Accounts aktiviert.  
-
-**06 Phishing**  
+**04 Phishing**  
 - Ich klicke keine Links oder Anhänge von Fremden an.  
 
-**07 Browser sichern**  
-- Ich habe Browser-Add-ons wie Adblock und lösche regelmäßig den Cache.  
+**05 Browser sichern**  
+- Ich habe mir jetzt Browser-Add-ons wie Adblock an und lösche regelmäßig den Cache.  
 
-**08 Backup**  
-- Ich habe wichtige Daten auf meiner Cloud bzw. externen Festplatte gesichert.  
+**06 Datenschutzfreundliche Dienste nutzen**
+- Momentan möchte ich dies nicht machen, vielleicht mache ich das später.
+  
+**07 Backup**  
+- Ich habe noch kein Backup gemacht, dies werde ich später machen. 
 
-**09 Software nur von sicheren Quellen**  
-- Ich lade Programme nur von offiziellen Websites herunter.  
+ **08 Daten verschlüsseln und löschen**
+ - Ich habe dies noch nicht gemacht, das war mir gar nicht bewusst.
+   
+**09 Administratorkonto**  
+- Ich bin mir nicht sicher, was für ein Konto ich habe. Dies werde ich nachher nachschauen.
 
-**10 Vorsicht bei USB & Dateien**  
+**10 Unberechtigte Zugriffe verhindern**  
 - Ich öffne keine unbekannten USB-Sticks oder Dateien von Fremden.

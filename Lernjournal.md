@@ -218,3 +218,7 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 
 **10 Unberechtigte Zugriffe verhindern**  
 - Ich öffne keine unbekannten USB-Sticks oder Dateien von Fremden.
+
+## Lesson Minecraft Education: Cyber Safe: Privacy Prodigy vermittelt:
+
+Ich habe gelernt, wie wichtig es ist, meine Daten zu sichern und Aufgaben am richtigen Ort auszuführen. Außerdem habe ich erkannt, wie entscheidend es ist, fehlerhafte Daten zu löschen, zu vermeiden und falsch gespeicherte Daten an den richtigen Ort zu verschieben.

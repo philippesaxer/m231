@@ -327,6 +327,28 @@ KDOOR → HALLO
 
 - Ein schneller Trick zum Entschlüsseln ist außerdem die **Häufigkeitsanalyse**: Da im Deutschen der Buchstabe **E** am häufigsten vorkommt, kann man den am häufigsten vorkommenden Buchstaben im Geheimtext nehmen und zurückrechnen, so hat man den Schlüssel oft schon sehr schnell gefunden.
 
+
+## Vigenère-Verschlüsselung
+
+### Vorgangsweise Beispiel:
+
+  1. Klartext: z.B. Informatik Yeah
+  2. Schlüsselwort: z.B. SPION
+  3. Schlüsselwort an Klartext anpassen
+- Klartext : I N F O R M A T I K Y E A H
+- Schlüssel: S P I O N S P I O N S P I O
+
+
+
+| Klartext | I | N | F | O | R | M | A | T | I | K |   | Y | E | A | H |
+| Schlüssel | S | P | I | O | N | S | P | I | O | N |   | S | P | I | O |
+| Geheimtext| Q | Y | X | A | E | U | L | L | U | X |   | G | P | S | T |
+---
+| Geheimtext | Q | Y | X | A | E | U | L | L | U | X |   | G | P | S | T |
+| Schlüssel  | S | P | I | O | N | S | P | I | O | N |   | S | P | I | O |
+| Klartext   | I | N | F | O | R | M | A | T | I | K |   | Y | E | A | H |
+---
+
 ## Hash(Funktion)
 
 ### Was ist eine Hashfunktion?

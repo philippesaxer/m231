@@ -222,3 +222,50 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 ## Lesson Minecraft Education: Cyber Safe: Privacy Prodigy vermittelt:
 
 Ich habe gelernt, wie wichtig es ist, meine Daten zu sichern und Aufgaben am richtigen Ort auszuführen. Außerdem habe ich erkannt, wie entscheidend es ist, fehlerhafte Daten zu löschen, zu vermeiden und falsch gespeicherte Daten an den richtigen Ort zu verschieben.
+
+# Lernjournal Tag 4
+
+## Mermaid:
+
+### Beispiel:
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+
+## Authentifizierung:
+```mermaid
+mindmap
+  root((Authentifizierung))
+    Definition
+      Identifizierung
+      Authentifizierung
+      Autorisierung
+    Faktoren
+      Wissen
+        Passwort
+        PIN
+      Besitz
+        Token
+        Smartcard
+        Smartphone
+      Sein
+        Fingerabdruck
+        Gesichtserkennung
+        Iris-Scan
+    Verfahren
+      Einfaktor
+      Zwei-Faktor (2FA)
+      Multi-Faktor (MFA)
+    Beispiele
+      Login am PC
+      Online-Banking
+      Smartphone-Entsperrung
+    Trends
+      Passkeys
+      FIDO2
+      Biometrie
+  ```

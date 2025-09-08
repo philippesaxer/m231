@@ -326,3 +326,38 @@ KDOOR → HALLO
 - Allerdings ist die Caesar-Verschlüsselung nicht besonders sicher, da es nur **26 mögliche Schlüssel** gibt.  Jemand könnte also einfach alle Varianten ausprobieren.  
 
 - Ein schneller Trick zum Entschlüsseln ist außerdem die **Häufigkeitsanalyse**: Da im Deutschen der Buchstabe **E** am häufigsten vorkommt, kann man den am häufigsten vorkommenden Buchstaben im Geheimtext nehmen und zurückrechnen, so hat man den Schlüssel oft schon sehr schnell gefunden.
+
+## Hash(Funktion)
+
+### Was ist eine Hashfunktion?
+Eine Hashfunktion erzeugt aus einer Eingabe (z. B. Datei, Text) einen **digitalen Code** fester Länge.
+
+Eigenschaften:
+- Gleiche Eingabe=gleicher Hashwert  
+- Sehr schnell berechenbar  
+- Nicht umkehrbar (Einwegfunktion)  
+- Schon kleine Änderungen=komplett anderer Hash  
+- Es gibt verschiedene Hash-Algorithmen, z. B. SHA-512 oder MD5.
+
+---
+
+### PowerShell Beispiel
+```powershell
+(Get-FileHash "C:\Users\phili\Downloads\csvExample" -Algorithm SHA512).Hash
+```
+- Get-FileHash: berechnet den Hash einer Datei
+
+- -Algorithm SHA512: nutzt den SHA-512 Algorithmus
+
+- .Hash: zeigt nur den Hashwert
+
+- Ausgabe-Beispiel: 67796EE19403E5D161F8CC5E686F663F9493F4CDD77CBD23AF03BB941D18BFEA83D1964DEC2BEA99FB6F4F5E167732A4D16267B701ED183DD6ACE1993485
+
+
+### Wofür?
+
+- Integritätsprüfung (Datei unverändert?)
+
+- Passwortspeicherung (statt Klartext)
+
+- Sicherheit im Internet (z. B. Zertifikate)

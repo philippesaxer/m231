@@ -341,10 +341,12 @@ KDOOR → HALLO
 
 
 | Klartext | I | N | F | O | R | M | A | T | I | K |   | Y | E | A | H |
+|------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Schlüssel | S | P | I | O | N | S | P | I | O | N |   | S | P | I | O |
 | Geheimtext| Q | Y | X | A | E | U | L | L | U | X |   | G | P | S | T |
 ---
 | Geheimtext | Q | Y | X | A | E | U | L | L | U | X |   | G | P | S | T |
+|------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Schlüssel  | S | P | I | O | N | S | P | I | O | N |   | S | P | I | O |
 | Klartext   | I | N | F | O | R | M | A | T | I | K |   | Y | E | A | H |
 ---

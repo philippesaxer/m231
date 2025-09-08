@@ -79,7 +79,7 @@ Ein geeigneter Vertreter sollte:
 
 ---
 # Datensicherheit und Datenschutz 
-![Datenschutz und Datensicherheit](media/DatenschutzDatensicherheit.PNG)
+![Datenschutz und Datensicherheit](DatenschutzDatensicherheit.PNG)
 
 # Lizenzmodelle
 

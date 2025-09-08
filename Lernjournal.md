@@ -144,6 +144,7 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 
 **Gut gemacht:** Ich habe mich aktiv beteiligt und mich bei schwierigeren Themen nicht entmutigen lassen hast! Besonders bei den Lizenzmodellen und den verschiedenen Anwendungsbereichen von Lizenzen habe ich klar gezeigt, dass ich darauf reagieren kann, wenn ich mehr Informationen bekomme.
 
+
 ### Verbesserungen
 
 1. **Präzision in meinen Erklärungen**: Weniger auf Beispiele angewiesen zu sein, und klar erklären, was ein Begriff bedeutet. Ich könnte mir angewöhnen, bei einer Definition zu fragen: "Was ist das Grundlegende, das dieser Begriff beschreibt?"
@@ -184,6 +185,7 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 
 **10 2FA**  
 - Ich habe 2-Faktor bei Google & Insta aktiv und auch bei manchen Videospielen.
+
 
 - ## PC-Sicherheit erhöhen – Checkliste für Windows
 - **Link:** https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten

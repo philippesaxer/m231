@@ -23,8 +23,6 @@
 - Neues DSG: **1. September 2023**  
 - Keine Übergangsfrist – Pflichten sofort gültig.  
 
----
-
 ### 2. Vertreterpflicht für Verantwortliche im Ausland
 Ein Schweiz-Vertreter ist zu benennen, wenn:  
 - Datenbearbeitung im Zusammenhang mit **Angebot von Waren/Dienstleistungen in der Schweiz** oder **Überwachung von Verhalten** in der Schweiz steht,  
@@ -271,3 +269,60 @@ mindmap
       FIDO2
       Biometrie
   ```
+
+## Caesar Verschlüsselung (Beispiel mit +3)
+
+| Klartext | Position | Verschoben (+3) | Geheimtext |
+|----------|----------|-----------------|------------|
+| A        | 0        | 3               | D          |
+| B        | 1        | 4               | E          |
+| C        | 2        | 5               | F          |
+| D        | 3        | 6               | G          |
+| E        | 4        | 7               | H          |
+| F        | 5        | 8               | I          |
+| G        | 6        | 9               | J          |
+| H        | 7        | 10              | K          |
+| I        | 8        | 11              | L          |
+| J        | 9        | 12              | M          |
+| K        | 10       | 13              | N          |
+| L        | 11       | 14              | O          |
+| M        | 12       | 15              | P          |
+| N        | 13       | 16              | Q          |
+| O        | 14       | 17              | R          |
+| P        | 15       | 18              | S          |
+| Q        | 16       | 19              | T          |
+| R        | 17       | 20              | U          |
+| S        | 18       | 21              | V          |
+| T        | 19       | 22              | W          |
+| U        | 20       | 23              | X          |
+| V        | 21       | 24              | Y          |
+| W        | 22       | 25              | Z          |
+| X        | 23       | 26 → 0          | A          |
+| Y        | 24       | 27 → 1          | B          |
+| Z        | 25       | 28 → 2          | C          |
+
+---
+
+## Erklärung
+
+Die Caesar-Verschlüsselung ist ein sehr einfaches Verfahren, bei dem jeder Buchstabe im Alphabet um eine feste Anzahl von Stellen verschoben wird.  
+Im Beispiel oben haben wir den **Schlüssel +3** gewählt.  
+
+**Beispiel:**
+- Das bedeutet: **A → D, B → E, C → F, ... , X → A, Y → B, Z → C**.  
+- Nach **Z** springt man also wieder am Anfang des Alphabets weiter.
+
+### Verschlüsseln
+Zum Verschlüsseln verschiebt man einfach jeden Buchstaben des Klartextes z.B. um 3 Stellen nach rechts im Alphabet.  
+**Beispiel:**  
+HALLO → KDOOR
+
+### Entschlüsseln
+Um den Text wieder lesbar zu machen, verschiebt man die Buchstaben einfach **3 Stellen zurück** (also in die entgegengesetzte Richtung).  
+**Beispiel:**  
+KDOOR → HALLO
+
+- So kann man Nachrichten mit einem festen Schlüssel ganz leicht hin- und herwandeln. Das funktioniert aber nur, wenn die andere Person den Schlüssel kennt.  
+- Allerdings ist die Caesar-Verschlüsselung nicht besonders sicher, da es nur **26 mögliche Schlüssel** gibt.  Jemand könnte also einfach alle Varianten ausprobieren.  
+
+- Ein schneller Trick zum Entschlüsseln ist außerdem die **Häufigkeitsanalyse**: Da im Deutschen der Buchstabe **E** am häufigsten vorkommt, kann man den am häufigsten vorkommenden Buchstaben im Geheimtext nehmen und zurückrechnen, so hat man den Schlüssel oft schon sehr schnell gefunden.

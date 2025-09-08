@@ -338,7 +338,7 @@ KDOOR → HALLO
 - Klartext : I N F O R M A T I K Y E A H
 - Schlüssel: S P I O N S P I O N S P I O
 
-
+![Vigenère-Verschlüsselung](vigenere.png)
 
 | Klartext | I | N | F | O | R | M | A | T | I | K |   | Y | E | A | H |
 |------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

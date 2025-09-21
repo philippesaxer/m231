@@ -131,7 +131,6 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 - **Copyright**  
   Nur der Urheber darf die Nutzung bestimmen. Am häufigsten verwendet.
 
-
 - **Copyleft**  
   Software darf frei genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.
 
@@ -147,12 +146,6 @@ Drei Schutzziele:
 3. **Vertraulichkeit** – Daten dürfen nur von Berechtigten eingesehen werden.  
 
 Alle drei müssen im Gleichgewicht stehen.  
-
----
-## Repetition, Lizenzen
-
-**Gut gemacht:** Ich habe mich aktiv beteiligt und mich bei schwierigeren Themen nicht entmutigen lassen hast! Besonders bei den Lizenzmodellen und den verschiedenen Anwendungsbereichen von Lizenzen habe ich klar gezeigt, dass ich darauf reagieren kann, wenn ich mehr Informationen bekomme.
-
 
 ### Verbesserungen
 
@@ -329,19 +322,6 @@ Eigenschaften:
   - Beratung von Bürgern, Firmen und Behörden.  
   - Kontrolle und Untersuchungen bei Datenschutzverletzungen.  
   - Öffentlichkeitsarbeit und Empfehlungen.  
-
----
-
-## Informationssicherheits-Dreieck
-
-Drei Schutzziele:  
-
-1. **Verfügbarkeit** – Daten und Systeme müssen jederzeit erreichbar sein.  
-2. **Integrität** – Daten dürfen nicht unbemerkt verändert werden.  
-3. **Vertraulichkeit** – Daten dürfen nur von Berechtigten eingesehen werden.  
-
-Alle drei müssen im Gleichgewicht stehen.  
-
 ---
 
 ## Datenschutz vs. Datensicherheit
@@ -352,22 +332,6 @@ Alle drei müssen im Gleichgewicht stehen.
 Beispiel:  
 - DSG = Gesetz, das den Datenschutz regelt.  
 - Firewall/Backup = Maßnahmen zur Datensicherheit.  
-
----
-
-## Lizenzmodelle (Zusammenfassung)
-
-- **Perpetual (Dauerlizenz)** → Einmal kaufen, unbegrenzt nutzen.  
-- **Subscription (Abo)** → Monatlich/jährlich zahlen.  
-- **Concurrent/Floating** → Nutzung gleichzeitig von mehreren, begrenzte Zahl.  
-- **Feature-based** → Nur bestimmte Funktionen kaufen.  
-- **Cloud-based** → Nutzung über Internet, oft Abo.  
-- **Enterprise** → Für ganze Organisation.  
-- **Trialware** → Testversion.  
-- **Open Source** → Quellcode offen, frei nutzbar/veränderbar.  
-
-**Copyright** = Urheber bestimmt Nutzung.  
-**Copyleft** = Weitergabe erlaubt, Änderungen müssen ebenfalls frei sein.  
 
 ---
 
@@ -388,5 +352,3 @@ Beispiel:
   - Countdown-Timer für künstliche Dringlichkeit.  
 
 ---
-
-

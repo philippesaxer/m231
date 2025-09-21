@@ -142,15 +142,6 @@ Drei Schutzziele:
 3. **Vertraulichkeit** – Daten dürfen nur von Berechtigten eingesehen werden.  
 
 Alle drei müssen im Gleichgewicht stehen.  
-
-### Verbesserungen
-
-1. **Präzision in meinen Erklärungen**: Weniger auf Beispiele angewiesen zu sein, und klar erklären, was ein Begriff bedeutet. Ich könnte mir angewöhnen, bei einer Definition zu fragen: "Was ist das Grundlegende, das dieser Begriff beschreibt?"
-
-2. **Unterschiede herausarbeiten**: Besonders beim Vergleich von "copyright" und "copyleft" sollte ich genauer darauf achten, was tatsächlich ähnlich oder anders ist. Ich notiere mir vielleicht Stichpunkte, um solche Unterschiede besser im Kopf zu behalten.
-
-3. **Begriffe durchdenken**: Bei schwierigen Worten wie "open source" ist es hilfreich, mir zu überlegen: "Was macht das besonders? Was ist der Kern dieses Begriffs?" So komme ich schneller auf genauere Antworten.
-
 # Lernjournal Tag 4
 
 ## Mermaid:

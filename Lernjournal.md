@@ -1,5 +1,17 @@
 # m231
 
+## Markdown Basics
+
+- **#** Überschrift  
+- **\***kursiv\***, **\*\***fett\*\***  
+- `code` für Inline-Code  
+- ``` ``` für Codeblöcke  
+- Listen: `-`, `1.`  
+- Links: `[Text](URL)`  
+- Bilder: `![Alt-Text](Datei.png)`  
+
+---
+
 # Lernjournal Tag 1
 
 ## Deepfake
@@ -250,16 +262,15 @@ KDOOR → HALLO
 ## Hash(Funktion)
 
 ### Was ist eine Hashfunktion?
-Eine Hashfunktion erzeugt aus einer Eingabe (z. B. Datei, Text) einen **digitalen Code** fester Länge.
+Eine Hashfunktion erzeugt aus einer Eingabe (z. B. Datei, Text) einen **digitalen Code** fester Länge. Rechenfunktion, die Eingabe (z. B. Text, Datei) in festen „Fingerabdruck“ umwandelt.
+
 
 Eigenschaften:
 - Gleiche Eingabe=gleicher Hashwert  
 - Sehr schnell berechenbar  
 - Nicht umkehrbar (Einwegfunktion)  
 - Schon kleine Änderungen=komplett anderer Hash  
-- Es gibt verschiedene Hash-Algorithmen, z. B. SHA-512 oder MD5.
-
----
+- Es gibt verschiedene Hash-Algorithmen, z. B. SHA-512, SHA-256 oder MD5.
 
 ### PowerShell Beispiel
 ```powershell
@@ -367,49 +378,4 @@ Beispiel:
 
 ---
 
-## Markdown Basics
 
-- **#** Überschrift  
-- **\***kursiv\***, **\*\***fett\*\***  
-- `code` für Inline-Code  
-- ``` ``` für Codeblöcke  
-- Listen: `-`, `1.`  
-- Links: `[Text](URL)`  
-- Bilder: `![Alt-Text](Datei.png)`  
-
----
-
-## Mermaid Basics
-
-Beispiel Diagramm:  
-
-mermaid
-graph TD;
-  A[Start] --> B{Entscheidung};
-  B -->|Ja| C[Option 1];
-  B -->|Nein| D[Option 2];
-
-
-## Hash-Funktion (Basis)
-
-Rechenfunktion, die Eingabe (z. B. Text, Datei) in festen „Fingerabdruck“ umwandelt.
-
-### Eigenschaften
-- Gleiche Eingabe = gleicher Hash  
-- Schon kleine Änderungen → komplett anderer Hash  
-- Nicht umkehrbar  
-
-### Beispiele
-- SHA-256  
-- SHA-512  
-- MD5  
-
-### Anwendungen
-- Integritätsprüfung (Dateien unverändert?)  
-- Passwortspeicherung  
-- Digitale Signaturen  
-- Zertifikate im Internet  
-
-### Beispiel PowerShell
-```powershell
-Get-FileHash -Path "C:\Users\Beispiel.txt" -Algorithm SHA256

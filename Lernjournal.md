@@ -3,7 +3,7 @@
 ## Markdown Basics
 
 - **#** Überschrift  
-- **\**kursiv\**, ***\***fett\***  
+- *kursiv*, **fett**  
 - `code` für Inline-Code  
 - ``` ``` für Codeblöcke  
 - Listen: `-`, `1.`  

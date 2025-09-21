@@ -7,18 +7,6 @@
 
 ## Schweizer Datenschutzgesetz (DSG) – Leseauftrag
 
-### Inhaltsverzeichnis
-1. [Inkrafttreten](#1-inkrafttreten)  
-2. [Vertreterpflicht für Verantwortliche im Ausland](#2-vertreterpflicht-für-verantwortliche-im-ausland)  
-3. [Ausnahmen von der Vertreterpflicht](#3-ausnahmen-von-der-vertreterpflicht)  
-4. [Anforderungen an einen Schweiz-Vertreter](#4-anforderungen-an-einen-schweiz-vertreter)  
-5. [Aufgaben gemäß Artikel 15 DSG](#5-aufgaben-gemäß-artikel-15-dsg)  
-6. [Haftung bei Datenschutzverstößen](#6-haftung-bei-datenschutzverstößen)  
-7. [Obligationenrecht (OR)](#7-obligationenrecht-or)  
-8. [Bedeutung für die Reputation](#8-bedeutung-für-die-reputation)  
-
----
-
 ### 1. Inkrafttreten
 - Neues DSG: **1. September 2023**  
 - Keine Übergangsfrist – Pflichten sofort gültig.  
@@ -133,7 +121,7 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 
 
 - **Copyleft**  
-  Software darf frei$ genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.
+  Software darf frei genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.
 
 # Lernjournal Tag 3 
 ![Dreieck der Informationssicherheit](dreieck231.png)
@@ -150,78 +138,6 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 2. **Unterschiede herausarbeiten**: Besonders beim Vergleich von "copyright" und "copyleft" sollte ich genauer darauf achten, was tatsächlich ähnlich oder anders ist. Ich notiere mir vielleicht Stichpunkte, um solche Unterschiede besser im Kopf zu behalten.
 
 3. **Begriffe durchdenken**: Bei schwierigen Worten wie "open source" ist es hilfreich, mir zu überlegen: "Was macht das besonders? Was ist der Kern dieses Begriffs?" So komme ich schneller auf genauere Antworten.
-
-## Checkliste Smartphone-Sicherheit erhöhen
-- **Link:** https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen  
-
-**01 Gerätesperre**  
-- Ich habe meinen PIN/Face-ID drin, sperrt sich nach 2 Min.  
-
-**02 Verlust**  
-- Das musste ich schon mal machen, als ich mein Handy im Zug verlor.
-
-**03 Apps**  
-- Ich lade Apps nur aus dem App Store herunter.  
-
-**04 WLAN**  
-- Öffentliches WLAN, brauche ich kaum, da ich unbegrenztes Daten Volumen habe.  
-
-**05 Updates**  
-- Automatische Updates sind an.  
-
-**06 Daten löschen**  
-- Vor Weiterverkauf, werde ich sich mein Handy zurücksetzen.  
-
-**07 Vorsicht**  
-- Das ist mir schon lange bewusst und sehr wichtig für die Sicherheit meiner Daten und meines Handys.
-
-**08 Schnittstellen**  
-- Mir ist bewusst das ich Bluetooth & Ortung nur an haben sollte, wenn ich es brauche. Ich vergesse das aber oft abzuschalten.  
-
-**09 Cloud**  
-- Bei mir kommt das nicht sehr drauf an, da meine Familie 2 TB Cloud für alle hat, völlig genug für alle.  
-
-**10 2FA**  
-- Ich habe 2-Faktor bei Google & Insta aktiv und auch bei manchen Videospielen.
-
-
-- ## PC-Sicherheit erhöhen – Checkliste für Windows
-- **Link:** https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten
-
-**01 Updates**  
-- Ich habe automatische Updates für Windows und Programme an.  
-
-**02 Virenschutz und Firewall**  
-- Ich habe den Windows Defender aktiviert.  
-- Ich habe die Windows-Firewall eingeschaltet.  
-
-**03 Starke Passwörter**  
-- Ich habe für viele Accounts das selbe Passwort, jetzt möchte ich aber einen Passwortmanager machen.  
-
-**04 Phishing**  
-- Ich klicke keine Links oder Anhänge von Fremden an.  
-
-**05 Browser sichern**  
-- Ich habe mir jetzt Browser-Add-ons wie Adblock an und lösche regelmäßig den Cache.  
-
-**06 Datenschutzfreundliche Dienste nutzen**
-- Momentan möchte ich dies nicht machen, vielleicht mache ich das später.
-  
-**07 Backup**  
-- Ich habe noch kein Backup gemacht, dies werde ich später machen. 
-
- **08 Daten verschlüsseln und löschen**
- - Ich habe dies noch nicht gemacht, das war mir gar nicht bewusst.
-   
-**09 Administratorkonto**  
-- Ich bin mir nicht sicher, was für ein Konto ich habe. Dies werde ich nachher nachschauen.
-
-**10 Unberechtigte Zugriffe verhindern**  
-- Ich öffne keine unbekannten USB-Sticks oder Dateien von Fremden.
-
-## Lesson Minecraft Education: Cyber Safe: Privacy Prodigy vermittelt:
-
-Ich habe gelernt, wie wichtig es ist, meine Daten zu sichern und Aufgaben am richtigen Ort auszuführen. Außerdem habe ich erkannt, wie entscheidend es ist, fehlerhafte Daten zu löschen, zu vermeiden und falsch gespeicherte Daten an den richtigen Ort zu verschieben.
 
 # Lernjournal Tag 4
 
@@ -277,26 +193,6 @@ mindmap
 | A        | 0        | 3               | D          |
 | B        | 1        | 4               | E          |
 | C        | 2        | 5               | F          |
-| D        | 3        | 6               | G          |
-| E        | 4        | 7               | H          |
-| F        | 5        | 8               | I          |
-| G        | 6        | 9               | J          |
-| H        | 7        | 10              | K          |
-| I        | 8        | 11              | L          |
-| J        | 9        | 12              | M          |
-| K        | 10       | 13              | N          |
-| L        | 11       | 14              | O          |
-| M        | 12       | 15              | P          |
-| N        | 13       | 16              | Q          |
-| O        | 14       | 17              | R          |
-| P        | 15       | 18              | S          |
-| Q        | 16       | 19              | T          |
-| R        | 17       | 20              | U          |
-| S        | 18       | 21              | V          |
-| T        | 19       | 22              | W          |
-| U        | 20       | 23              | X          |
-| V        | 21       | 24              | Y          |
-| W        | 22       | 25              | Z          |
 | X        | 23       | 26 → 0          | A          |
 | Y        | 24       | 27 → 1          | B          |
 | Z        | 25       | 28 → 2          | C          |
@@ -385,7 +281,7 @@ Eigenschaften:
 - Passwortspeicherung (statt Klartext)
 
 - Sicherheit im Internet (z. B. Zertifikate)
-# Lernjournal Tag 6
+# Lernjournal Tag 5
 
 ## Schweizer Datenschutzgesetz und internationale Bezüge
 

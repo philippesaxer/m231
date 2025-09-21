@@ -147,13 +147,13 @@ Alle drei müssen im Gleichgewicht stehen.
 ## Mermaid:
 
 ### Beispiel:
-```mermaid
+mermaid
 graph TD;
   A-->B;
   A-->C;
   B-->D;
   C-->D;
-```
+
 
 ## Authentifizierung:
 ```mermaid

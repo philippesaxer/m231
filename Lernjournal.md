@@ -131,8 +131,6 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
   Software darf frei genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.
 
 # Lernjournal Tag 3 
-![Dreieck der Informationssicherheit](dreieck231.png)
-
 ## Informationssicherheits-Dreieck
 
 Drei Schutzziele:  

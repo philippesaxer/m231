@@ -138,6 +138,17 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 # Lernjournal Tag 3 
 ![Dreieck der Informationssicherheit](dreieck231.png)
 
+## Informationssicherheits-Dreieck
+
+Drei Schutzziele:  
+
+1. **Verfügbarkeit** – Daten und Systeme müssen jederzeit erreichbar sein.  
+2. **Integrität** – Daten dürfen nicht unbemerkt verändert werden.  
+3. **Vertraulichkeit** – Daten dürfen nur von Berechtigten eingesehen werden.  
+
+Alle drei müssen im Gleichgewicht stehen.  
+
+---
 ## Repetition, Lizenzen
 
 **Gut gemacht:** Ich habe mich aktiv beteiligt und mich bei schwierigeren Themen nicht entmutigen lassen hast! Besonders bei den Lizenzmodellen und den verschiedenen Anwendungsbereichen von Lizenzen habe ich klar gezeigt, dass ich darauf reagieren kann, wenn ich mehr Informationen bekomme.

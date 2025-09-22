@@ -402,6 +402,7 @@ Eigenschaften:
 - **Vorteile:** Einfachere Schlüsselverteilung, digitale Signaturen, Authentifizierung.  
 - **Nachteile:** Langsamer, rechenintensiv.  
 - **Beispiele:** RSA, Diffie-Hellman, ECC.  
+![Asymmetrisches](Orange_blue_public_key_cryptography_de.svg.png)
 
 ## Vergleich
 | Aspekt             | Symmetrisch         | Asymmetrisch               |

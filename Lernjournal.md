@@ -385,4 +385,29 @@ Eigenschaften:
 - Passwortspeicherung (statt Klartext)
 
 - Sicherheit im Internet (z. B. Zertifikate)
+  
 # Lernjournal Tag 5 
+
+# Symmetrische vs. Asymmetrische Kryptosysteme
+
+## Symmetrisches Kryptosystem
+- **Prinzip:** Gleicher Schlüssel für Ver- und Entschlüsselung.  
+- **Vorteile:** Sehr schnell, effizient für große Datenmengen.  
+- **Nachteile:** Schlüsselverteilung schwierig (sicherer Kanal nötig).  
+- **Beispiele:** AES, DES, Blowfish.  
+
+## Asymmetrisches Kryptosystem
+- **Prinzip:** Schlüsselpaar – öffentlicher Schlüssel zum Verschlüsseln/Prüfen, privater Schlüssel zum Entschlüsseln/Signieren.  
+- **Vorteile:** Einfachere Schlüsselverteilung, digitale Signaturen, Authentifizierung.  
+- **Nachteile:** Langsamer, rechenintensiv.  
+- **Beispiele:** RSA, Diffie-Hellman, ECC.  
+
+## Vergleich
+| Aspekt             | Symmetrisch         | Asymmetrisch               |
+|--------------------|---------------------|-----------------------------|
+| Schlüssel          | Ein gemeinsamer     | Öffentlich + privat         |
+| Geschwindigkeit    | Sehr schnell        | Langsamer                   |
+| Schlüsselverteilung| Problematisch       | Einfacher                   |
+| Einsatz            | Große Datenmengen   | Schlüsselaustausch, Signatur |
+
+**Fazit:** In der Praxis oft **hybride Verfahren**: asymmetrisch für Schlüsselaustausch, symmetrisch für die eigentliche Datenverschlüsselung.

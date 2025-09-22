@@ -395,6 +395,7 @@ Eigenschaften:
 - **Vorteile:** Sehr schnell, effizient für große Datenmengen.  
 - **Nachteile:** Schlüsselverteilung schwierig (sicherer Kanal nötig).  
 - **Beispiele:** AES, DES, Blowfish.  
+![Symetrisches](Orange_blue_symmetric_cryptography_de.svg.png)
 
 ## Asymmetrisches Kryptosystem
 - **Prinzip:** Schlüsselpaar – öffentlicher Schlüssel zum Verschlüsseln/Prüfen, privater Schlüssel zum Entschlüsseln/Signieren.  

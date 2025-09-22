@@ -1,19 +1,23 @@
 # m231
 
-## Markdown Basics
+# Lernjournal Tag 1
 
-- **#** Überschrift  
-- *kursiv*, **fett**  
-- `code` für Inline-Code  
-- ``` ``` für Codeblöcke  
-- Listen: `-`, `1.`  
-- Links: `[Text](URL)`  
-- Bilder: `![Alt-Text](Datei.png)`  
+## Deepfake
+[Recherche über Deepfake](https://www.netzwoche.ch/news/2022-03-18/deepfake-video-gaukelt-kapitulierenden-ukrainischen-praesidenten-vor) so wie eine [Powerpoint über Deepfake](https://tbzedu-my.sharepoint.com/:p:/r/personal/lionel_schultze_edu_tbz_ch/Documents/Deepfakes.pptx?d=wbed84a56376d44698452a018ebabc099&csf=1&web=1&e=RSygYo)
+
+## Schweizer Datenschutzgesetz (DSG) – Leseauftrag
+
+### Inhaltsverzeichnis
+1. [Inkrafttreten](#1-inkrafttreten)  
+2. [Vertreterpflicht für Verantwortliche im Ausland](#2-vertreterpflicht-für-verantwortliche-im-ausland)  
+3. [Ausnahmen von der Vertreterpflicht](#3-ausnahmen-von-der-vertreterpflicht)  
+4. [Anforderungen an einen Schweiz-Vertreter](#4-anforderungen-an-einen-schweiz-vertreter)  
+5. [Aufgaben gemäß Artikel 15 DSG](#5-aufgaben-gemäß-artikel-15-dsg)  
+6. [Haftung bei Datenschutzverstößen](#6-haftung-bei-datenschutzverstößen)  
+7. [Obligationenrecht (OR)](#7-obligationenrecht-or)  
+8. [Bedeutung für die Reputation](#8-bedeutung-für-die-reputation)  
 
 ---
-
-# Lernjournal Tag 1
-## Schweizer Datenschutzgesetz (DSG) – Leseauftrag
 
 ### 1. Inkrafttreten
 - Neues DSG: **1. September 2023**  
@@ -127,31 +131,110 @@ Open Source bedeutet, dass jeder die Software benutzen, verändern und weitergeb
 - **Copyright**  
   Nur der Urheber darf die Nutzung bestimmen. Am häufigsten verwendet.
 
+
 - **Copyleft**  
-  Software darf frei genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.
+  Software darf frei$ genutzt und verändert werden, Änderungen müssen ebenfalls frei bleiben.
 
 # Lernjournal Tag 3 
-## Informationssicherheits-Dreieck
+![Dreieck der Informationssicherheit](dreieck231.png)
 
-Drei Schutzziele:  
+## Repetition, Lizenzen
 
-1. **Verfügbarkeit** – Daten und Systeme müssen jederzeit erreichbar sein.  
-2. **Integrität** – Daten dürfen nicht unbemerkt verändert werden.  
-3. **Vertraulichkeit** – Daten dürfen nur von Berechtigten eingesehen werden.  
+**Gut gemacht:** Ich habe mich aktiv beteiligt und mich bei schwierigeren Themen nicht entmutigen lassen hast! Besonders bei den Lizenzmodellen und den verschiedenen Anwendungsbereichen von Lizenzen habe ich klar gezeigt, dass ich darauf reagieren kann, wenn ich mehr Informationen bekomme.
 
-Alle drei müssen im Gleichgewicht stehen.  
+
+### Verbesserungen
+
+1. **Präzision in meinen Erklärungen**: Weniger auf Beispiele angewiesen zu sein, und klar erklären, was ein Begriff bedeutet. Ich könnte mir angewöhnen, bei einer Definition zu fragen: "Was ist das Grundlegende, das dieser Begriff beschreibt?"
+
+2. **Unterschiede herausarbeiten**: Besonders beim Vergleich von "copyright" und "copyleft" sollte ich genauer darauf achten, was tatsächlich ähnlich oder anders ist. Ich notiere mir vielleicht Stichpunkte, um solche Unterschiede besser im Kopf zu behalten.
+
+3. **Begriffe durchdenken**: Bei schwierigen Worten wie "open source" ist es hilfreich, mir zu überlegen: "Was macht das besonders? Was ist der Kern dieses Begriffs?" So komme ich schneller auf genauere Antworten.
+
+## Checkliste Smartphone-Sicherheit erhöhen
+- **Link:** https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen  
+
+**01 Gerätesperre**  
+- Ich habe meinen PIN/Face-ID drin, sperrt sich nach 2 Min.  
+
+**02 Verlust**  
+- Das musste ich schon mal machen, als ich mein Handy im Zug verlor.
+
+**03 Apps**  
+- Ich lade Apps nur aus dem App Store herunter.  
+
+**04 WLAN**  
+- Öffentliches WLAN, brauche ich kaum, da ich unbegrenztes Daten Volumen habe.  
+
+**05 Updates**  
+- Automatische Updates sind an.  
+
+**06 Daten löschen**  
+- Vor Weiterverkauf, werde ich sich mein Handy zurücksetzen.  
+
+**07 Vorsicht**  
+- Das ist mir schon lange bewusst und sehr wichtig für die Sicherheit meiner Daten und meines Handys.
+
+**08 Schnittstellen**  
+- Mir ist bewusst das ich Bluetooth & Ortung nur an haben sollte, wenn ich es brauche. Ich vergesse das aber oft abzuschalten.  
+
+**09 Cloud**  
+- Bei mir kommt das nicht sehr drauf an, da meine Familie 2 TB Cloud für alle hat, völlig genug für alle.  
+
+**10 2FA**  
+- Ich habe 2-Faktor bei Google & Insta aktiv und auch bei manchen Videospielen.
+
+
+- ## PC-Sicherheit erhöhen – Checkliste für Windows
+- **Link:** https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten
+
+**01 Updates**  
+- Ich habe automatische Updates für Windows und Programme an.  
+
+**02 Virenschutz und Firewall**  
+- Ich habe den Windows Defender aktiviert.  
+- Ich habe die Windows-Firewall eingeschaltet.  
+
+**03 Starke Passwörter**  
+- Ich habe für viele Accounts das selbe Passwort, jetzt möchte ich aber einen Passwortmanager machen.  
+
+**04 Phishing**  
+- Ich klicke keine Links oder Anhänge von Fremden an.  
+
+**05 Browser sichern**  
+- Ich habe mir jetzt Browser-Add-ons wie Adblock an und lösche regelmäßig den Cache.  
+
+**06 Datenschutzfreundliche Dienste nutzen**
+- Momentan möchte ich dies nicht machen, vielleicht mache ich das später.
+  
+**07 Backup**  
+- Ich habe noch kein Backup gemacht, dies werde ich später machen. 
+
+ **08 Daten verschlüsseln und löschen**
+ - Ich habe dies noch nicht gemacht, das war mir gar nicht bewusst.
+   
+**09 Administratorkonto**  
+- Ich bin mir nicht sicher, was für ein Konto ich habe. Dies werde ich nachher nachschauen.
+
+**10 Unberechtigte Zugriffe verhindern**  
+- Ich öffne keine unbekannten USB-Sticks oder Dateien von Fremden.
+
+## Lesson Minecraft Education: Cyber Safe: Privacy Prodigy vermittelt:
+
+Ich habe gelernt, wie wichtig es ist, meine Daten zu sichern und Aufgaben am richtigen Ort auszuführen. Außerdem habe ich erkannt, wie entscheidend es ist, fehlerhafte Daten zu löschen, zu vermeiden und falsch gespeicherte Daten an den richtigen Ort zu verschieben.
+
 # Lernjournal Tag 4
 
 ## Mermaid:
 
 ### Beispiel:
-mermaid
+```mermaid
 graph TD;
   A-->B;
   A-->C;
   B-->D;
   C-->D;
-
+```
 
 ## Authentifizierung:
 ```mermaid
@@ -194,6 +277,26 @@ mindmap
 | A        | 0        | 3               | D          |
 | B        | 1        | 4               | E          |
 | C        | 2        | 5               | F          |
+| D        | 3        | 6               | G          |
+| E        | 4        | 7               | H          |
+| F        | 5        | 8               | I          |
+| G        | 6        | 9               | J          |
+| H        | 7        | 10              | K          |
+| I        | 8        | 11              | L          |
+| J        | 9        | 12              | M          |
+| K        | 10       | 13              | N          |
+| L        | 11       | 14              | O          |
+| M        | 12       | 15              | P          |
+| N        | 13       | 16              | Q          |
+| O        | 14       | 17              | R          |
+| P        | 15       | 18              | S          |
+| Q        | 16       | 19              | T          |
+| R        | 17       | 20              | U          |
+| S        | 18       | 21              | V          |
+| T        | 19       | 22              | W          |
+| U        | 20       | 23              | X          |
+| V        | 21       | 24              | Y          |
+| W        | 22       | 25              | Z          |
 | X        | 23       | 26 → 0          | A          |
 | Y        | 24       | 27 → 1          | B          |
 | Z        | 25       | 28 → 2          | C          |
@@ -251,15 +354,16 @@ KDOOR → HALLO
 ## Hash(Funktion)
 
 ### Was ist eine Hashfunktion?
-Eine Hashfunktion erzeugt aus einer Eingabe (z. B. Datei, Text) einen **digitalen Code** fester Länge. Rechenfunktion, die Eingabe (z. B. Text, Datei) in festen „Fingerabdruck“ umwandelt.
-
+Eine Hashfunktion erzeugt aus einer Eingabe (z. B. Datei, Text) einen **digitalen Code** fester Länge.
 
 Eigenschaften:
 - Gleiche Eingabe=gleicher Hashwert  
 - Sehr schnell berechenbar  
 - Nicht umkehrbar (Einwegfunktion)  
 - Schon kleine Änderungen=komplett anderer Hash  
-- Es gibt verschiedene Hash-Algorithmen, z. B. SHA-512, SHA-256 oder MD5.
+- Es gibt verschiedene Hash-Algorithmen, z. B. SHA-512 oder MD5.
+
+---
 
 ### PowerShell Beispiel
 ```powershell
@@ -281,7 +385,7 @@ Eigenschaften:
 - Passwortspeicherung (statt Klartext)
 
 - Sicherheit im Internet (z. B. Zertifikate)
-# Lernjournal Tag 5
+# Lernjournal Tag 6
 
 ## Schweizer Datenschutzgesetz und internationale Bezüge
 
@@ -307,6 +411,19 @@ Eigenschaften:
   - Beratung von Bürgern, Firmen und Behörden.  
   - Kontrolle und Untersuchungen bei Datenschutzverletzungen.  
   - Öffentlichkeitsarbeit und Empfehlungen.  
+
+---
+
+## Informationssicherheits-Dreieck
+
+Drei Schutzziele:  
+
+1. **Verfügbarkeit** – Daten und Systeme müssen jederzeit erreichbar sein.  
+2. **Integrität** – Daten dürfen nicht unbemerkt verändert werden.  
+3. **Vertraulichkeit** – Daten dürfen nur von Berechtigten eingesehen werden.  
+
+Alle drei müssen im Gleichgewicht stehen.  
+
 ---
 
 ## Datenschutz vs. Datensicherheit
@@ -317,6 +434,22 @@ Eigenschaften:
 Beispiel:  
 - DSG = Gesetz, das den Datenschutz regelt.  
 - Firewall/Backup = Maßnahmen zur Datensicherheit.  
+
+---
+
+## Lizenzmodelle (Zusammenfassung)
+
+- **Perpetual (Dauerlizenz)** → Einmal kaufen, unbegrenzt nutzen.  
+- **Subscription (Abo)** → Monatlich/jährlich zahlen.  
+- **Concurrent/Floating** → Nutzung gleichzeitig von mehreren, begrenzte Zahl.  
+- **Feature-based** → Nur bestimmte Funktionen kaufen.  
+- **Cloud-based** → Nutzung über Internet, oft Abo.  
+- **Enterprise** → Für ganze Organisation.  
+- **Trialware** → Testversion.  
+- **Open Source** → Quellcode offen, frei nutzbar/veränderbar.  
+
+**Copyright** = Urheber bestimmt Nutzung.  
+**Copyleft** = Weitergabe erlaubt, Änderungen müssen ebenfalls frei sein.  
 
 ---
 
@@ -336,4 +469,52 @@ Beispiel:
   - Automatisch angehakte Newsletter-Felder.  
   - Countdown-Timer für künstliche Dringlichkeit.  
 
+---
+
+## Markdown Basics
+
+- **#** Überschrift  
+- **\***kursiv\***, **\*\***fett\*\***  
+- `code` für Inline-Code  
+- ``` ``` für Codeblöcke  
+- Listen: `-`, `1.`  
+- Links: `[Text](URL)`  
+- Bilder: `![Alt-Text](Datei.png)`  
+
+---
+
+## Mermaid Basics
+
+Beispiel Diagramm:  
+
+mermaid
+graph TD;
+  A[Start] --> B{Entscheidung};
+  B -->|Ja| C[Option 1];
+  B -->|Nein| D[Option 2];
+
+
+## Hash-Funktion (Basis)
+
+Rechenfunktion, die Eingabe (z. B. Text, Datei) in festen „Fingerabdruck“ umwandelt.
+
+### Eigenschaften
+- Gleiche Eingabe = gleicher Hash  
+- Schon kleine Änderungen → komplett anderer Hash  
+- Nicht umkehrbar  
+
+### Beispiele
+- SHA-256  
+- SHA-512  
+- MD5  
+
+### Anwendungen
+- Integritätsprüfung (Dateien unverändert?)  
+- Passwortspeicherung  
+- Digitale Signaturen  
+- Zertifikate im Internet  
+
+### Beispiel PowerShell
+```powershell
+Get-FileHash -Path "C:\Users\Beispiel.txt" -Algorithm SHA256
 ---

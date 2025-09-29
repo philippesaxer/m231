@@ -533,3 +533,7 @@ Get-FileHash -Path "C:\Users\Beispiel.txt" -Algorithm SHA256
 - Die Vigenere Verschlüsselung basiert auf eine wiederholte Anwendung der Caesar Verschlüsselung mit verschiedenen Schlüsseln.
 - Bei einem Schlüsselwort der Länge 1 entspricht sie einer normalen Caesar-Verschlüsselung.
 - Eine Hashfunktion nutzt man auch um digitale Signaturen zu erstellen.
+
+## Wo speichere ich, welche Daten?
+
+## Ablagekonzept

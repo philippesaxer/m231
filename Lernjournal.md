@@ -413,3 +413,18 @@ Eigenschaften:
 | Einsatz            | Große Datenmengen   | Schlüsselaustausch, Signatur |
 
 **Fazit:** In der Praxis oft **hybride Verfahren**: asymmetrisch für Schlüsselaustausch, symmetrisch für die eigentliche Datenverschlüsselung.
+
+# Lernjournal Tag 6
+
+## Prüfungsfehler
+- Das Schweizer Datenschutzgesetz gilt für alle Personen inklusive Kleinkinder.
+- Die Finanzielle Situation gild zu den nicht besonders schützenswerte Daten gemäss EDÖB.
+- Sorgfeltspflicht
+- Das Datenschutzgesetz schützt die Urheber von Werken der Literatur und Kunst.
+- Die Rechtsmässigkeit und Verhältnismäsigkeit verhindern, dass die Schweizer Bürger grundlos überwacht und verfolgt werden.
+- Nur notwendige Cookies akzeptieren muss gesetzlich vorhanden sein.
+- Der Browser erhält Daten (Cookies) vom Server und speichert diese ab. Beim nächsten Request schickt er diese Daten an der Server zurück.
+- Ein Link macht man auf Markdown mit [TBZ](https://www.tbz.ch).
+- Die Vigenere Verschlüsselung basiert auf eine wiederholte Anwendung der Caesar Verschlüsselung mit verschiedenen Schlüsseln.
+- Bei einem Schlüsselwort der Länge 1 entspricht sie einer normalen Caesar-Verschlüsselung.
+- Eine Hashfunktion nutzt man auch um digitale Signaturen zu erstellen.
